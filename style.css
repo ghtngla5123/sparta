@@ -1,0 +1,11 @@
+.hero {
+    margin-bottom: 20px;
+}
+
+.card {
+    transition: all 0.3s ease-in-out; /* 부드러운 애니메이션 효과 */
+}
+
+.card:hover {
+    transform: scale(1.05); /* 마우스 오버 시 크기 증가 */
+}
